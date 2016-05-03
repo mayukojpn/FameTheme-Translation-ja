@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Patus package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-30 17:24+0900\n"
+"PO-Revision-Date: 2016-05-03 21:16+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,15 +16,15 @@ msgstr ""
 
 #. Theme Name of the plugin/theme
 msgid "Patus"
-msgstr ""
+msgstr "Patus"
 
 #. Description of the plugin/theme
 msgid "Patus is a Personal Blogging Theme for WordPress and an effortlessly tool for publishers of all kind, cherished for its flexibility, clean layouts and speed. It’s totally responsive so it adapts to your style as well as the device it’s viewed on."
-msgstr ""
+msgstr "Patus は個人ブログ向けの WordPress テーマで、あらゆる立場の執筆者のための簡単なツールです。柔軟性、クリーンなレイアウトと速さが愛されています。完全にレスポンシブなので、閲覧するデバイスと同様にあなたのスタイルに適応します。"
 
 #: inc/dashboard.php:30
 msgid "Start Customize"
-msgstr ""
+msgstr "カスタマイズを始める"
 
 #: inc/dashboard.php:8
 msgid "%s Dashboard"
@@ -32,23 +32,23 @@ msgstr "%s ダッシュボード"
 
 #: inc/dashboard.php:8
 msgid "%s Theme Dashboard"
-msgstr ""
+msgstr "%s テーマダッシュボード"
 
 #: inc/dashboard.php:37
 msgid "http://docs.famethemes.com/category/9-patus"
-msgstr ""
+msgstr "http://docs.famethemes.com/category/9-patus"
 
 #: inc/dashboard.php:42
 msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
-msgstr ""
+msgstr "WordPress テーマ %s のサポートは、WordPress の無料テーマサポートフォーラムを通じて行われます。"
 
 #: inc/dashboard.php:44
 msgid "https://wordpress.org/support/theme/patus"
-msgstr ""
+msgstr "https://wordpress.org/support/theme/patus"
 
 #. Template Name of the plugin/theme
 msgid "Archives Template"
-msgstr ""
+msgstr "アーカイブテンプレート"
 
 #. Template Name of the plugin/theme
 msgid "Fullwidth Template"
@@ -82,15 +82,15 @@ msgstr "見つかりませんでした"
 
 #: page-templates/template-archive.php:16
 msgid "Last 30 Posts"
-msgstr ""
+msgstr "最新30件の投稿"
 
 #: page-templates/template-archive.php:29
 msgid "n.j.y"
-msgstr ""
+msgstr "n.j.y"
 
 #: page-templates/template-archive.php:32
 msgid "Monthly Archives"
-msgstr "Monthly Archives"
+msgstr "月別アーカイブ"
 
 #: page-templates/template-archive.php:36
 msgid "Archives by Subject"
@@ -102,19 +102,19 @@ msgstr "「%s」の検索結果"
 
 #: inc/dashboard.php:28
 msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
-msgstr ""
+msgstr "%s は、すべてのテーマ設定をテーマカスタマイザーで行います。「カスタマイズ」をクリックして、あなたのサイトのカスタマイズを始めましょう。"
 
 #: inc/dashboard.php:35
 msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
-msgstr ""
+msgstr "%s の設置や設定でお困りですか? ドキュメンテーションをご覧ください。"
 
 #: inc/dashboard.php:37
 msgid "Online Documentation"
-msgstr ""
+msgstr "オンラインマニュアル"
 
 #: inc/dashboard.php:18
 msgid "Welcome to %1s - Version %2s"
-msgstr ""
+msgstr "%1s バージョン %2s へようこそ。"
 
 #: inc/template-tags.php:252
 msgid "Your comment is awaiting moderation."
@@ -176,7 +176,7 @@ msgstr "%件のコメント"
 
 #: inc/template-tags.php:71
 msgid " in %1$s"
-msgstr ""
+msgstr " in %1$s"
 
 #: inc/template-tags.php:76
 msgid "0 Comment"
@@ -199,12 +199,12 @@ msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
 #: inc/template-tags.php:54
 msgctxt "post date"
 msgid " on %s"
-msgstr ""
+msgstr " 投稿日: %s"
 
 #: inc/template-tags.php:63
 msgctxt "post author"
 msgid "Posted by %s"
-msgstr ""
+msgstr "投稿者: %s"
 
 #. translators: used between list items, there is a space after the comma
 #: inc/template-tags.php:69 inc/template-tags.php:91 inc/template-tags.php:97
@@ -229,31 +229,31 @@ msgstr "左サイドバー"
 
 #: inc/customizer.php:32
 msgid "Sidebar Position:"
-msgstr ""
+msgstr "サイドバーの位置:"
 
 #: inc/customizer.php:50
 msgid "Right Footer Text:"
-msgstr ""
+msgstr "フッター右のテキスト:"
 
 #: inc/customizer.php:57
 msgid "Social Settings"
-msgstr "社会的環境"
+msgstr "ソーシャル設定"
 
 #: inc/customizer.php:68
 msgid "RSS Feed:"
-msgstr ""
+msgstr "RSS フィード:"
 
 #: inc/customizer.php:81
 msgid "Email Address:"
-msgstr "メールアドレス"
+msgstr "メールアドレス:"
 
 #: inc/customizer.php:94
 msgid "Twitter Link:"
-msgstr ""
+msgstr "Twitter リンク:"
 
 #: inc/customizer.php:107
 msgid "Facebook Link:"
-msgstr ""
+msgstr "Facebook リンク:"
 
 #: inc/customizer.php:120
 msgid "Google Plus Link:"
@@ -261,11 +261,11 @@ msgstr "Google+ リンク:"
 
 #: inc/customizer.php:135
 msgid "Primary Color"
-msgstr "プライマリーの色"
+msgstr "メインカラー"
 
 #: inc/customizer.php:149
 msgid "Secondary Color"
-msgstr ""
+msgstr "サブカラー"
 
 #: inc/customizer.php:21
 msgid "General Settings"
@@ -276,7 +276,7 @@ msgstr "一般設定"
 #: functions.php:98
 msgctxt "Dosis font: on or off"
 msgid "on"
-msgstr ""
+msgstr "on"
 
 #: header.php:22
 msgid "Skip to content"
@@ -292,11 +292,11 @@ msgstr "&copy;"
 
 #: footer.php:17
 msgid " - Theme: %1$s by %2$s."
-msgstr ""
+msgstr " - テーマ: %1$s by %2$s."
 
 #: footer.php:17
 msgid "http://www.famethemes.com/"
-msgstr ""
+msgstr "http://www.famethemes.com/"
 
 #: functions.php:46
 msgid "Primary Menu"
@@ -409,12 +409,12 @@ msgstr "﻿ページが見つかりません。"
 
 #. Theme URI of the plugin/theme
 msgid "http://www.famethemes.com/themes/patus"
-msgstr ""
+msgstr "http://www.famethemes.com/themes/patus"
 
 #. Author of the plugin/theme
 msgid "FameThemes"
-msgstr ""
+msgstr "FameThemes"
 
 #. Author URI of the plugin/theme
 msgid "http://www.famethemes.com"
-msgstr ""
+msgstr "http://www.famethemes.com"
