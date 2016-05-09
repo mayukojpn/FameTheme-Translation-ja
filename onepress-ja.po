@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the OnePress package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-30 17:24+0900\n"
+"PO-Revision-Date: 2016-04-30 18:12+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,15 +21,17 @@ msgstr ""
 #. Theme Name of the plugin/theme
 #: inc/dashboard.php:98
 msgid "OnePress"
-msgstr ""
+msgstr "OnePress"
 
 #: inc/customizer.php:463
+#, fuzzy
 msgid "Hero Options"
-msgstr ""
+msgstr "設定"
 
 #: inc/customizer.php:497
+#, fuzzy
 msgid "Text animation"
-msgstr ""
+msgstr "文章"
 
 #: inc/customizer.php:516
 msgid "Speed"
@@ -45,32 +47,37 @@ msgid_plural "%1$s actions required"
 msgstr[0] ""
 
 #: inc/dashboard.php:20
+#, fuzzy
 msgid "OnePress Theme %s"
-msgstr ""
+msgstr "テーマ: %2$s by %1$s."
 
 #: inc/customizer.php:528 inc/customizer.php:547
 msgid "Custom CSS"
 msgstr "カスタム CSS"
 
 #: inc/customizer.php:1579
+#, fuzzy
 msgid "Services Layout Setting"
-msgstr ""
+msgstr "私たちのサービス"
 
 #: section-parts/section-features.php:5
+#, fuzzy
 msgid "Why choose Us"
-msgstr ""
+msgstr "レビューを残す (お願いします)"
 
 #: inc/customizer.php:1437 inc/customizer.php:1973
 msgid "Custom Link"
 msgstr "カスタムリンク"
 
 #: inc/customizer.php:1364
+#, fuzzy
 msgid "Features Layout Setting"
-msgstr ""
+msgstr "機能について"
 
 #: inc/customizer.php:1400
+#, fuzzy
 msgid "Features content"
-msgstr ""
+msgstr "機能について"
 
 #: inc/customizer.php:1433
 msgid "Description"
@@ -79,32 +86,38 @@ msgstr "備考"
 #: inc/customizer.php:1173 inc/customizer.php:1348 inc/customizer.php:1562
 #: inc/customizer.php:1752 inc/customizer.php:1908 inc/customizer.php:2076
 #: inc/customizer.php:2231
+#, fuzzy
 msgid "Section Description"
-msgstr ""
+msgstr "備考"
 
 #: inc/customizer.php:1261
+#, fuzzy
 msgid "Section: Features"
-msgstr ""
+msgstr "機能について"
 
 #: inc/customizer.php:1296 section-parts/section-features.php:2
+#, fuzzy
 msgid "features"
-msgstr ""
+msgstr "機能について"
 
 #: inc/customizer.php:1311 section-parts/section-features.php:4
 msgid "Features"
 msgstr "機能について"
 
 #: inc/customizer.php:831
+#, fuzzy
 msgid "Display Layout"
-msgstr ""
+msgstr "サイトレイアウト"
 
 #: inc/customizer.php:836
+#, fuzzy
 msgid "Layout 1"
-msgstr ""
+msgstr "レイアウトの種類"
 
 #: inc/customizer.php:837
+#, fuzzy
 msgid "Layout 2"
-msgstr ""
+msgstr "レイアウトの種類"
 
 #: inc/customizer.php:950
 msgid "Content Text"
@@ -115,8 +128,9 @@ msgid "Image"
 msgstr "画像フィールド"
 
 #: inc/customizer.php:384
+#, fuzzy
 msgid "Social network"
-msgstr ""
+msgstr "グループネットワーク設定"
 
 #: inc/customizer.php:388 inc/customizer.php:1417 inc/customizer.php:1422
 #: inc/customizer.php:1629 inc/customizer.php:1634
@@ -133,16 +147,18 @@ msgid "URL"
 msgstr "URL"
 
 #: footer.php:33
+#, fuzzy
 msgid "Enter your e-mail address"
-msgstr ""
+msgstr "* メールアドレスを入力してください。"
 
 #: footer.php:34
 msgid "Subscribe"
 msgstr "購読する"
 
 #: inc/customizer.php:299
+#, fuzzy
 msgid "Header Transparent"
-msgstr ""
+msgstr "ヘッダ"
 
 #: inc/customizer.php:301
 msgid "Apply for front page template only."
@@ -157,8 +173,9 @@ msgid "2 Columns"
 msgstr "2カラム"
 
 #: inc/dashboard.php:119
+#, fuzzy
 msgid "OnePress Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: inc/dashboard.php:125
 msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
@@ -169,20 +186,23 @@ msgid "Only set if you don't use an image logo."
 msgstr ""
 
 #: inc/customizer.php:219
+#, fuzzy
 msgid "Menu Link Color"
-msgstr ""
+msgstr "セクションへのリンクメニュー"
 
 #: inc/customizer.php:234
+#, fuzzy
 msgid "Menu Link Hover/Active Color"
-msgstr ""
+msgstr "ナビゲーションメニューのホバー時の色 "
 
 #: inc/customizer.php:250
 msgid "Menu Link Hover/Active BG Color"
 msgstr ""
 
 #: inc/customizer.php:265
+#, fuzzy
 msgid "Responsive Menu Button Color"
-msgstr ""
+msgstr "ページ送りボタンのホバー時の色 "
 
 #: inc/customizer.php:281
 msgid "Center vertical align for menu"
@@ -197,24 +217,29 @@ msgid "Enable parallax effect (apply for first BG image only)"
 msgstr ""
 
 #: inc/customizer.php:1204
+#, fuzzy
 msgid "About content page"
-msgstr ""
+msgstr "プラグインについて"
 
 #: inc/customizer.php:1243 inc/customizer.php:1456
+#, fuzzy
 msgid "Item content source"
-msgstr ""
+msgstr "移動元"
 
 #: inc/customizer.php:1248 inc/customizer.php:1461
+#, fuzzy
 msgid "Full Page Content"
-msgstr ""
+msgstr "全幅ページ"
 
 #: inc/customizer.php:1249 inc/customizer.php:1462
+#, fuzzy
 msgid "Page Excerpt"
-msgstr ""
+msgstr "抜粋の長さ"
 
 #: inc/customizer.php:1924
+#, fuzzy
 msgid "Team Layout Setting"
-msgstr ""
+msgstr "チーム"
 
 #: inc/customizer.php:1369 inc/customizer.php:1584 inc/customizer.php:1929
 msgid "4 Columns"
@@ -233,8 +258,9 @@ msgid "Background Color"
 msgstr "背景色"
 
 #: inc/customizer.php:151
+#, fuzzy
 msgid "Site Colors"
-msgstr ""
+msgstr "無限の色"
 
 #: inc/customizer.php:160
 msgid "Primary Color"
@@ -245,24 +271,28 @@ msgid "Header"
 msgstr "ヘッダ"
 
 #: inc/customizer.php:1968
+#, fuzzy
 msgid "User media"
-msgstr ""
+msgstr "メディア"
 
 #: inc/customizer.php:983
+#, fuzzy
 msgid "Section: Video Lightbox"
-msgstr ""
+msgstr "背景動画"
 
 #: inc/customizer.php:1025
 msgid "The section id, we will use this for link anchor."
 msgstr ""
 
 #: inc/customizer.php:1041
+#, fuzzy
 msgid "Section heading"
-msgstr ""
+msgstr "見出しのフォント名"
 
 #: inc/customizer.php:1056
+#, fuzzy
 msgid "Video url"
-msgstr ""
+msgstr "URL"
 
 #: inc/customizer.php:1058
 msgid "Paste Youtube or Vimeo url here"
@@ -277,8 +307,9 @@ msgid "In order to have the one page look for your website, please go to Customi
 msgstr ""
 
 #: inc/dashboard.php:151 inc/dashboard.php:169
+#, fuzzy
 msgid "Setup front page displays"
-msgstr ""
+msgstr "「フロントページ表示」を「固定ページ」に切り替える"
 
 #: inc/dashboard.php:159
 msgid "Set your homepage page template to \"Frontpage\"."
@@ -289,44 +320,53 @@ msgid "In order to change homepage section contents, you will need to set templa
 msgstr ""
 
 #: inc/dashboard.php:176
+#, fuzzy
 msgid "Change homepage page template"
-msgstr ""
+msgstr "ページテンプレートを変更する"
 
 #: inc/dashboard.php:185
+#, fuzzy
 msgid "Keep update with %s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: inc/dashboard.php:186
+#, fuzzy
 msgid "Hooray! There are no required actions for you right now."
-msgstr ""
+msgstr "おめでとう！今のところ必要な作業はありません。"
 
 #: inc/dashboard.php:146
+#, fuzzy
 msgid "Switch \"Front page displays\" to \"A static page\""
-msgstr ""
+msgstr "「フロントページ表示」を「固定ページ」に切り替える"
 
 #: inc/customizer.php:108
+#, fuzzy
 msgid "Disable Sticky Header?"
-msgstr ""
+msgstr "一番上のヘッダーを非表示にする。"
 
 #: inc/customizer.php:110
 msgid "Check this box to disable sticky header when scroll."
 msgstr ""
 
 #: inc/customizer.php:561
+#, fuzzy
 msgid "Section Order & Styling"
-msgstr ""
+msgstr "セクションの順序と色"
 
 #: inc/customizer.php:748
+#, fuzzy
 msgid "Background Overlay Color"
-msgstr ""
+msgstr "重ねる色と透過率"
 
 #: inc/dashboard.php:25
+#, fuzzy
 msgid "OnePress Dashboard"
-msgstr ""
+msgstr "ダッシュボードに戻る"
 
 #: inc/dashboard.php:22
+#, fuzzy
 msgid "OnePress Theme"
-msgstr ""
+msgstr "テーマオプション"
 
 #: inc/dashboard.php:48
 msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
@@ -337,8 +377,9 @@ msgid "Welcome to OnePress - Version %1s"
 msgstr ""
 
 #: inc/dashboard.php:99
+#, fuzzy
 msgid "Actions Required"
-msgstr ""
+msgstr "操作が必要です"
 
 #: inc/dashboard.php:145 inc/dashboard.php:158
 msgid "Dismiss"
@@ -349,8 +390,9 @@ msgid "Left Sidebar"
 msgstr "左サイドバー"
 
 #. Template Name of the plugin/theme
+#, fuzzy
 msgid "Frontpage"
-msgstr ""
+msgstr "フロントページ"
 
 #. Template Name of the plugin/theme
 msgid "Full Width"
@@ -377,8 +419,9 @@ msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact 
 msgstr ""
 
 #: section-parts/section-hero.php:75
+#, fuzzy
 msgid "#services"
-msgstr ""
+msgstr "私たちのサービス"
 
 #: template-parts/content-list.php:38 template-parts/content-page.php:21
 #: template-parts/content-single.php:25 template-parts/content.php:39
@@ -450,8 +493,9 @@ msgid "Plugin activation failed."
 msgstr "プラグインの有効化に失敗しました。"
 
 #: inc/tgm-plugin-activation.php:2645
+#, fuzzy
 msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
 #: inc/tgm-plugin-activation.php:2681
 msgid "No plugins are available to be installed at this time."
@@ -462,12 +506,14 @@ msgid "No plugins are available to be updated at this time."
 msgstr "現在更新できるプラグインはありません。"
 
 #: inc/tgm-plugin-activation.php:2788
+#, fuzzy
 msgid "No plugins were selected to be activated. No action taken."
-msgstr ""
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
 #: inc/tgm-plugin-activation.php:2643
+#, fuzzy
 msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
 
 #: inc/tgm-plugin-activation.php:2612
 msgid "Activate"
@@ -496,9 +542,10 @@ msgid "Install %2$s"
 msgstr "インストール %2$s"
 
 #: inc/tgm-plugin-activation.php:2495
+#, fuzzy
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: inc/tgm-plugin-activation.php:2443
 msgid "Status"
@@ -561,13 +608,15 @@ msgid "Requires Update"
 msgstr "要更新"
 
 #: inc/tgm-plugin-activation.php:2227
+#, fuzzy
 msgid "Update recommended"
-msgstr ""
+msgstr "更新を推奨"
 
 #: inc/tgm-plugin-activation.php:2235
+#, fuzzy
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s、%2$s"
 
 #: inc/tgm-plugin-activation.php:2280
 msgctxt "plugins"
@@ -608,8 +657,9 @@ msgid "Recommended"
 msgstr "推奨"
 
 #: inc/tgm-plugin-activation.php:938
+#, fuzzy
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: inc/tgm-plugin-activation.php:1116 inc/tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -626,16 +676,19 @@ msgid "Required"
 msgstr "必要な"
 
 #: inc/tgm-plugin-activation.php:935
+#, fuzzy
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: inc/tgm-plugin-activation.php:935 inc/tgm-plugin-activation.php:938
+#, fuzzy
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr ""
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
 
 #: inc/tgm-plugin-activation.php:635
+#, fuzzy
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "代わりに parent_slug の設定変数を設定してください。"
 
 #: inc/tgm-plugin-activation.php:828 inc/tgm-plugin-activation.php:3436
 msgid "Return to the Dashboard"
@@ -646,8 +699,9 @@ msgid "Update Required"
 msgstr "更新する必要があります"
 
 #: inc/tgm-plugin-activation.php:520
+#, fuzzy
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
 
 #: inc/tgm-plugin-activation.php:404
 msgid "Dismiss this notice"
@@ -746,12 +800,14 @@ msgid "%s supports the Theme Customizer for all theme settings. Click \"Customiz
 msgstr ""
 
 #: inc/dashboard.php:112
+#, fuzzy
 msgid "Start Customize"
-msgstr ""
+msgstr "カスタマイズ"
 
 #: inc/dashboard.php:116
+#, fuzzy
 msgid "Theme Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: inc/customizer.php:2371
 msgid "Email"
@@ -766,96 +822,116 @@ msgid "Get in touch"
 msgstr "お問い合わせ"
 
 #: inc/customizer.php:2269
+#, fuzzy
 msgid "Contact Form 7 Shortcode."
-msgstr ""
+msgstr "お問い合わせフォームのショートコード"
 
 #: inc/customizer.php:2285
+#, fuzzy
 msgid "Hide contact form completely."
-msgstr ""
+msgstr "お問い合わせフォームのショートコード"
 
 #: inc/customizer.php:2287
+#, fuzzy
 msgid "Check this box to hide contact form."
-msgstr ""
+msgstr "Pirate Forms をインストール後、お問い合わせフォームを確認する"
 
 #: inc/customizer.php:2302
+#, fuzzy
 msgid "Contact Text"
-msgstr ""
+msgstr "文章"
 
 #: inc/customizer.php:2326
+#, fuzzy
 msgid "Contact Box Title"
-msgstr ""
+msgstr "ボックス1 - タイトル:"
 
 #: inc/customizer.php:2341
 msgid "Address"
 msgstr "番地"
 
 #: inc/customizer.php:1989
+#, fuzzy
 msgid "Section: News"
-msgstr ""
+msgstr "最新ニュースセクション"
 
 #: inc/customizer.php:2024 section-parts/section-news.php:2
+#, fuzzy
 msgid "news"
-msgstr ""
+msgstr "最新ニュース: %s"
 
 #: inc/customizer.php:2039 section-parts/section-news.php:4
+#, fuzzy
 msgid "Latest News"
-msgstr ""
+msgstr "最新ニュース"
 
 #: inc/customizer.php:2104
+#, fuzzy
 msgid "Number of post to show"
-msgstr ""
+msgstr "表示する投稿数:"
 
 #: inc/customizer.php:2119
+#, fuzzy
 msgid "More News button link"
-msgstr ""
+msgstr "赤ボタンリンク"
 
 #: inc/customizer.php:2127 section-parts/section-news.php:8
+#, fuzzy
 msgid "Read Our Blog"
-msgstr ""
+msgstr "記事を読む"
 
 #: inc/customizer.php:2144
+#, fuzzy
 msgid "Section: Contact"
-msgstr ""
+msgstr "お問い合わせセクション"
 
 #: inc/customizer.php:2179 section-parts/section-contact.php:2
 msgid "contact"
 msgstr "お問合せ"
 
 #: inc/customizer.php:1801
+#, fuzzy
 msgid "Before number"
-msgstr ""
+msgstr "電話番号の前に表示するテキスト"
 
 #: inc/customizer.php:1806
+#, fuzzy
 msgid "After number"
-msgstr ""
+msgstr "Number フィールド"
 
 #: inc/customizer.php:1822
+#, fuzzy
 msgid "Section: Team"
-msgstr ""
+msgstr "チームセクション"
 
 #: inc/customizer.php:1856 section-parts/section-team.php:2
+#, fuzzy
 msgid "team"
-msgstr ""
+msgstr "チーム紹介セクションウィジェット"
 
 #: inc/customizer.php:1871 section-parts/section-team.php:4
+#, fuzzy
 msgid "Our Team"
-msgstr ""
+msgstr "チームセクション"
 
 #: inc/customizer.php:1959
+#, fuzzy
 msgid "Team members"
-msgstr ""
+msgstr "チーム"
 
 #: inc/customizer.php:1793
+#, fuzzy
 msgid "Your counter label"
-msgstr ""
+msgstr "ボタンラベル"
 
 #: inc/customizer.php:1796
 msgid "Number"
 msgstr "Number フィールド"
 
 #: inc/customizer.php:1781
+#, fuzzy
 msgid "Counter content"
-msgstr ""
+msgstr "コンテンツ - コンテンツ:"
 
 #: inc/customizer.php:1409 inc/customizer.php:1790
 msgid "Title"
@@ -864,8 +940,9 @@ msgstr "Title"
 #: inc/customizer.php:1141 inc/customizer.php:1316 inc/customizer.php:1530
 #: inc/customizer.php:1720 inc/customizer.php:1876 inc/customizer.php:2044
 #: inc/customizer.php:2199
+#, fuzzy
 msgid "Section Title"
-msgstr ""
+msgstr "お問い合わせセクションタイトル"
 
 #: inc/customizer.php:1151 inc/customizer.php:1326 inc/customizer.php:1540
 #: inc/customizer.php:1730 inc/customizer.php:1886 inc/customizer.php:2054
@@ -873,44 +950,52 @@ msgstr ""
 #: section-parts/section-contact.php:5 section-parts/section-counter.php:5
 #: section-parts/section-news.php:5 section-parts/section-services.php:5
 #: section-parts/section-team.php:5
+#, fuzzy
 msgid "Section subtitle"
-msgstr ""
+msgstr "お問い合わせセクションサブタイトル"
 
 #: inc/customizer.php:1156 inc/customizer.php:1331 inc/customizer.php:1545
 #: inc/customizer.php:1735 inc/customizer.php:1891 inc/customizer.php:2059
 #: inc/customizer.php:2132 inc/customizer.php:2214
+#, fuzzy
 msgid "Section Subtitle"
-msgstr ""
+msgstr "お問い合わせセクションサブタイトル"
 
 #: inc/customizer.php:1183 inc/customizer.php:1380 inc/customizer.php:1595
 #: inc/customizer.php:1761 inc/customizer.php:1939 inc/customizer.php:2241
+#, fuzzy
 msgid "Section Content"
-msgstr ""
+msgstr "コンテント"
 
 #: inc/customizer.php:379 inc/customizer.php:1208 inc/customizer.php:1404
 #: inc/customizer.php:1619 inc/customizer.php:1785 inc/customizer.php:1963
+#, fuzzy
 msgid "[live_title]"
-msgstr ""
+msgstr "ライブプレビュー"
 
 #: inc/customizer.php:1215 inc/customizer.php:1646
 msgid "Select a page"
 msgstr "固定ページを選択"
 
 #: inc/customizer.php:1220
+#, fuzzy
 msgid "Hide item title"
-msgstr ""
+msgstr "大きなタイトルセクションを非表示にしますか ?"
 
 #: inc/customizer.php:1224 inc/customizer.php:1651
+#, fuzzy
 msgid "Link to single page"
-msgstr ""
+msgstr "リンク"
 
 #: inc/customizer.php:1475
+#, fuzzy
 msgid "Section: Services"
-msgstr ""
+msgstr "私たちのサービス"
 
 #: inc/customizer.php:1510 section-parts/section-services.php:2
+#, fuzzy
 msgid "services"
-msgstr ""
+msgstr "私たちのサービス"
 
 #: inc/customizer.php:1525 section-parts/section-hero.php:74
 #: section-parts/section-services.php:4
@@ -918,66 +1003,78 @@ msgid "Our Services"
 msgstr "私たちのサービス"
 
 #: inc/customizer.php:1615
+#, fuzzy
 msgid "Service content"
-msgstr ""
+msgstr "コンテンツ - コンテンツ:"
 
 #: inc/customizer.php:1413 inc/customizer.php:1625
+#, fuzzy
 msgid "Custom icon"
-msgstr ""
+msgstr "アイコン"
 
 #: inc/customizer.php:1666
+#, fuzzy
 msgid "Section: Counter"
-msgstr ""
+msgstr "ポートフォリオセクション"
 
 #: inc/customizer.php:1700 section-parts/section-counter.php:2
 msgid "counter"
 msgstr ""
 
 #: inc/customizer.php:1715 section-parts/section-counter.php:4
+#, fuzzy
 msgid "Our Numbers"
-msgstr ""
+msgstr "私たちのサービス"
 
 #: inc/customizer.php:916
+#, fuzzy
 msgid "Button #2 Text"
-msgstr ""
+msgstr "下ボタンのあるリボンセクション - テキスト"
 
 #: inc/customizer.php:925 section-parts/section-hero.php:77
+#, fuzzy
 msgid "#contact"
-msgstr ""
+msgstr "お問合せ"
 
 #: inc/customizer.php:930
+#, fuzzy
 msgid "Button #2 Link"
-msgstr ""
+msgstr "ボタン"
 
 #: inc/customizer.php:1086
+#, fuzzy
 msgid "Section: About"
-msgstr ""
+msgstr "「当社について」セクション"
 
 #: inc/customizer.php:992 inc/customizer.php:1095 inc/customizer.php:1270
 #: inc/customizer.php:1484 inc/customizer.php:1675 inc/customizer.php:1831
 #: inc/customizer.php:1998 inc/customizer.php:2153
+#, fuzzy
 msgid "Section Settings"
-msgstr ""
+msgstr "設定"
 
 #: inc/customizer.php:1121 section-parts/section-about.php:2
 msgid "about"
 msgstr "紹介"
 
 #: inc/customizer.php:815
+#, fuzzy
 msgid "Hero Content Layout"
-msgstr ""
+msgstr "ヘッダーレイアウト"
 
 #: inc/customizer.php:855
+#, fuzzy
 msgid "Large Text"
-msgstr ""
+msgstr "大"
 
 #: inc/customizer.php:857
 msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer->Site Option->Animate to control rotate animation."
 msgstr ""
 
 #: inc/customizer.php:872
+#, fuzzy
 msgid "Small Text"
-msgstr ""
+msgstr "文章"
 
 #: inc/customizer.php:875
 msgid "You can use text rotate slider in this textarea too."
@@ -985,20 +1082,24 @@ msgstr ""
 
 #: inc/customizer.php:883 inc/customizer.php:1136
 #: section-parts/section-about.php:4
+#, fuzzy
 msgid "About Us"
-msgstr ""
+msgstr "当社についてセクション"
 
 #: inc/customizer.php:888
+#, fuzzy
 msgid "Button #1 Text"
-msgstr ""
+msgstr "下ボタンのあるリボンセクション - テキスト"
 
 #: inc/customizer.php:897
+#, fuzzy
 msgid "#about"
-msgstr ""
+msgstr "プラグインについて"
 
 #: inc/customizer.php:902
+#, fuzzy
 msgid "Button #1 Link"
-msgstr ""
+msgstr "ボタン"
 
 #: inc/customizer.php:911 section-parts/section-hero.php:76
 msgid "Get Started"
@@ -1011,18 +1112,21 @@ msgstr "背景画像"
 #: inc/customizer.php:617 inc/customizer.php:1010 inc/customizer.php:1113
 #: inc/customizer.php:1288 inc/customizer.php:1502 inc/customizer.php:1692
 #: inc/customizer.php:1849 inc/customizer.php:2016 inc/customizer.php:2171
+#, fuzzy
 msgid "Check this box to hide this section."
-msgstr ""
+msgstr "ボックスをチェックして、最新ニュースの列を表示する。"
 
 #: inc/customizer.php:624 section-parts/section-hero.php:2
+#, fuzzy
 msgid "hero"
-msgstr ""
+msgstr "Llorix One Lite は無料の美しい1ページのビジネス向け WordPress テーマで、フラットでクリーンな bootstrap ベースのデザインとエレガントなパララックス効果を備えています。シンプルでミニマル、モダンな見た目であらゆる個人ビジネスやモバイルアプリの立ち上げにご利用いただけます。ランディングページはフルスクリーンの目立つ画像とブルー&オレンジの外観に、この上なくシンプルでエレガントな印象をもたらすボタンとアイコンを配置しています。WooCommerce を利用したネットショップ、WPML、bbPress、Photo Gallery Grid、Contact Form 7、Meta Slider、SiteOrigin Page Builder、Jetpack 対応で SEO フレンドリーの柔軟なブログ項目を提供します。ビジネスやスタートアップのショップ、企業サイト、写真ポートフォリオに最適です。"
 
 #: inc/customizer.php:629 inc/customizer.php:1023 inc/customizer.php:1126
 #: inc/customizer.php:1301 inc/customizer.php:1515 inc/customizer.php:1705
 #: inc/customizer.php:1861 inc/customizer.php:2029 inc/customizer.php:2184
+#, fuzzy
 msgid "Section ID:"
-msgstr ""
+msgstr "ID"
 
 #: inc/customizer.php:645
 msgid "Make hero section full screen"
@@ -1037,20 +1141,24 @@ msgid "10"
 msgstr "10"
 
 #: inc/customizer.php:660
+#, fuzzy
 msgid "Padding Top:"
-msgstr ""
+msgstr "余白"
 
 #: inc/customizer.php:676
+#, fuzzy
 msgid "Padding Bottom:"
-msgstr ""
+msgstr "余白"
 
 #: inc/customizer.php:686
+#, fuzzy
 msgid "Hero Background Media"
-msgstr ""
+msgstr "メディア"
 
 #: inc/customizer.php:713
+#, fuzzy
 msgid "Background Images"
-msgstr ""
+msgstr "画像"
 
 #: inc/customizer.php:717
 msgid "Background"
@@ -1061,62 +1169,72 @@ msgid "Newsletter"
 msgstr "ニュースレター"
 
 #: inc/customizer.php:422
+#, fuzzy
 msgid "Hide Footer Newsletter?"
-msgstr ""
+msgstr "ニュースレター"
 
 #: inc/customizer.php:424
 msgid "Check this box to hide footer newsletter form."
 msgstr ""
 
 #: inc/customizer.php:437
+#, fuzzy
 msgid "Newsletter Form Title"
-msgstr ""
+msgstr "ニュースレター"
 
 #: inc/customizer.php:452
+#, fuzzy
 msgid "MailChimp Action URL"
-msgstr ""
+msgstr "Behance のリンク"
 
 #: inc/customizer.php:589
+#, fuzzy
 msgid "Section: Hero"
-msgstr ""
+msgstr "ポートフォリオセクション"
 
 #: inc/customizer.php:599
+#, fuzzy
 msgid "Hero Settings"
-msgstr ""
+msgstr "設定"
 
 #: inc/customizer.php:615 inc/customizer.php:1008 inc/customizer.php:1111
 #: inc/customizer.php:1286 inc/customizer.php:1500 inc/customizer.php:1690
 #: inc/customizer.php:1847 inc/customizer.php:2014 inc/customizer.php:2169
+#, fuzzy
 msgid "Hide this section?"
-msgstr ""
+msgstr "お客様の声セクションを非表示にしますか ?"
 
 #: inc/customizer.php:91
 msgid "Global"
 msgstr "Global"
 
 #: inc/customizer.php:124
+#, fuzzy
 msgid "Disable animation effect?"
-msgstr ""
+msgstr "プリロードを無効化しますか ?"
 
 #: inc/customizer.php:126
 msgid "Check this box to disable all element animation when scroll."
 msgstr ""
 
 #: inc/customizer.php:140
+#, fuzzy
 msgid "Hide footer back to top?"
-msgstr ""
+msgstr "ページトップへ戻る"
 
 #: inc/customizer.php:142
 msgid "Check this box to hide footer back to top button."
 msgstr ""
 
 #: inc/customizer.php:311
+#, fuzzy
 msgid "Social Profiles"
-msgstr ""
+msgstr "ユーザープロフィール"
 
 #: inc/customizer.php:327
+#, fuzzy
 msgid "Hide Footer Social?"
-msgstr ""
+msgstr "フッターのソーシャルアイコン"
 
 #: inc/customizer.php:329
 msgid "Check this box to hide footer social section."
@@ -1127,28 +1245,34 @@ msgid "These social profiles setting below will display at the footer of your si
 msgstr ""
 
 #: inc/customizer.php:355
+#, fuzzy
 msgid "Social Footer Title"
-msgstr ""
+msgstr "フッターのソーシャルアイコン"
 
 #: inc/customizer.php:23
+#, fuzzy
 msgid "Site Title, Tagline & Logo"
-msgstr ""
+msgstr "サイトロゴ"
 
 #: inc/customizer.php:36
+#, fuzzy
 msgid "Select page"
-msgstr ""
+msgstr "固定ページを選択"
 
 #: inc/customizer.php:47
+#, fuzzy
 msgid "Select member"
-msgstr ""
+msgstr "画像を選択"
 
 #: inc/customizer.php:66
+#, fuzzy
 msgid "Site Image Logo"
-msgstr ""
+msgstr "サイトのロゴ画像"
 
 #: inc/customizer.php:68
+#, fuzzy
 msgid "Your site image logo"
-msgstr ""
+msgstr "サイトのロゴ画像"
 
 #: inc/customizer.php:81
 msgid "Theme Options"
@@ -1171,8 +1295,9 @@ msgid "Remove"
 msgstr "除外"
 
 #: inc/customizer-controls.php:572
+#, fuzzy
 msgid "Add an item"
-msgstr ""
+msgstr "品目"
 
 #: inc/customizer-controls.php:446 inc/customizer-controls.php:591
 msgid "Item"
@@ -1195,8 +1320,9 @@ msgid "No action taken. Plugin %1$s was already active."
 msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効化されています。"
 
 #: functions.php:280 inc/tgm-plugin-activation.php:402
+#, fuzzy
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
 
 #: functions.php:281 inc/tgm-plugin-activation.php:403
 msgid "All plugins installed and activated successfully. %1$s"
@@ -1317,20 +1443,24 @@ msgid "Primary Menu"
 msgstr "メインメニュー"
 
 #: inc/template-tags.php:663
+#, fuzzy
 msgid "Copyright %1$s %2$s %3$s"
-msgstr ""
+msgstr "テーマ: %1$s %2$s by %3$s."
 
 #: inc/template-tags.php:665
+#, fuzzy
 msgid "%1$s theme by %2$s"
-msgstr ""
+msgstr "テーマ: %1$s %2$s by %3$s."
 
 #: footer.php:15 inc/customizer.php:350
+#, fuzzy
 msgid "Keep Updated"
-msgstr ""
+msgstr "設定を保存しました"
 
 #: footer.php:19 inc/customizer.php:432
+#, fuzzy
 msgid "Join our Newsletter"
-msgstr ""
+msgstr "ニュースレター"
 
 #: footer.php:95
 msgid "Back To Top"
@@ -1377,12 +1507,12 @@ msgstr "お探しのページが見つかりません。"
 
 #. Theme URI of the plugin/theme
 msgid "https://www.famethemes.com/themes/onepress/"
-msgstr ""
+msgstr "https://www.famethemes.com/themes/onepress/"
 
 #. Author of the plugin/theme
 msgid "FameThemes"
-msgstr ""
+msgstr "FameThemes"
 
 #. Author URI of the plugin/theme
 msgid "http://www.famethemes.com"
-msgstr ""
+msgstr "http://www.famethemes.com"
